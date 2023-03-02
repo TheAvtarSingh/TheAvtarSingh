@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avtar Singh</h1>
 <h3 align="center">Exploring the sea of IT</h3>
 
-- 🔭 I’m currently working on [Toy Shop Ecommerce Web Application](https://github.com/TheAvtarSingh/toyShopOriginal)
+- 🔭 I’m currently working on [Student Result Management System](https://github.com/TheAvtarSingh/Student_Result_Management_Major_Project)
 
 - 🌱 I’m currently learning **React, Git and SQL**
 
-- 👯 I’m looking to collaborate on [Toy Shop Ecommerce Web Application](https://github.com/TheAvtarSingh/toyShopOriginal)
+- 👯 I’m looking to collaborate on [Student Result Management System](https://github.com/TheAvtarSingh/Student_Result_Management_Major_Project)
 
 - 👨‍💻 My Portfolio [theavtarsingh.github.io](theavtarsingh.github.io)
 
