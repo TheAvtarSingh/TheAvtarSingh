@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Student Result Management System](https://github.com/TheAvtarSingh/Student_Result_Management_Major_Project)
 
-- 👨‍💻 My Portfolio [theavtarsingh.github.io](theavtarsingh.github.io)
+- 👨‍💻 My Portfolio [theavtarsingh.github.io](https://theavtarsingh.github.io)
 
 - 💬 Ask me about **Angular, JS**
 
