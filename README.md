@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Avtar Singh</h1>
 <h3 align="center">Exploring the sea of IT</h3>
 
-- 🔭 I’m currently working on [Student Result Management System](https://github.com/TheAvtarSingh/Student_Result_Management_Major_Project)
+- 🔭 I’m currently working on [Flutter Cab Sharing Application](https://github.com/TheAvtarSingh)
+
+- 🔭 Just Finished MERN Stack Project [Student Result Management System](https://geturresult.vercel.app/)
 
 - 🌱 I’m currently learning **React, Git and SQL**
 
-- 👯 I’m looking to collaborate on [Student Result Management System](https://github.com/TheAvtarSingh/Student_Result_Management_Major_Project)
+- 👯 I’m looking to collaborate on [Flutter Cab Sharing Application](https://github.com/TheAvtarSingh)
 
 - 👨‍💻 My Portfolio [theavtarsingh.github.io](https://theavtarsingh.github.io)
 
-- 💬 Ask me about **Angular, JS**
+- 💬 Ask me about **Angular, JS , React Js , SQL , NoSql (Mongodb),Java , Spring Boot , Java MVC**
 
 - 📫 How to reach me **singha2k2@gmail.com**
 
