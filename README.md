@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avtar Singh</h1>
 <h3 align="center">Exploring the sea of IT</h3>
 
-- 🔭 I’m currently working on [Dept-Seek]([https://github.com/TheAvtarSingh](https://github.com/TheAvtarSingh/Dept-Seek))
+- 🔭 I’m currently working on [Dept-Seek](https://github.com/TheAvtarSingh/Dept-Seek)
 
 - 🔭 Just Finished MERN Stack Project [Student Result Management System](https://geturresult.vercel.app/)
 
